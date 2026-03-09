@@ -62,12 +62,7 @@ flowchart TD
     RESUME --> REDIS
     QUEUE --> GC
 
-    style ROUTING fill:#0a1a0a,stroke:#44FF88,color:#ccc
-    style EDGE fill:#1a0a1a,stroke:#CC44FF,color:#ccc
-    style API fill:#001a1f,stroke:#00E5FF,color:#ccc
-    style STORAGE fill:#1a1400,stroke:#FFB300,color:#ccc
-    style CDN_LAYER fill:#071a00,stroke:#69FF47,color:#ccc
-    style SUPPORT fill:#1a0808,stroke:#FF6B6B,color:#ccc
+
 ```
 
 ---
