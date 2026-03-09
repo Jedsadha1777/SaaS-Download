@@ -86,10 +86,6 @@ flowchart TD
 
     CLEAN --> T([ไฟล์สมบูรณ์ในเครื่อง])
 
-    style SESSION fill:#1a0a1a,stroke:#CC44FF,color:#ccc
-    style CHUNKING fill:#001a1f,stroke:#00E5FF,color:#ccc
-    style ASSEMBLING fill:#1a1400,stroke:#FFB300,color:#ccc
-    style SAVING fill:#071a00,stroke:#69FF47,color:#ccc
 ```
 
 ---
